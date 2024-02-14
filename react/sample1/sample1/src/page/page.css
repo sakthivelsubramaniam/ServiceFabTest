@@ -1,0 +1,26 @@
+
+.page-content {
+
+ text-align: left;
+ display: flex;
+ flex-direction: column;
+}
+
+.page-nav {
+
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+
+.page-nav-item {
+
+  padding:6px
+
+}
+
+.input-container  {
+    background-color: #8f92a2;
+    padding: 10px;
+    font-family: Sans-Serif
+};

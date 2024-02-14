@@ -1,0 +1,11 @@
+
+.left-bottom-menu {
+    background-color:#474F7A; 
+    list-style: none;
+    color:lightgrey; 
+}
+
+.left-bottom-menu-item {
+  text-align: left;
+  list-style: none;
+}
